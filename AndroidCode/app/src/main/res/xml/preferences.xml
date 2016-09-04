@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title = "Account Settings">
+
+        <EditTextPreference
+            android:title = "Username"
+            android:summary = "username"
+            android:key = "username"/>
+
+        <MultiSelectListPreference
+            android:persistent="true"
+            android:title = "Refresh every"
+            android:key = "refresh"
+            android:entries = "@array/period"
+            android:entryValues="@array/period_value"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title = "App Settings">
+
+        <SwitchPreference
+            android:title = "Invisible?"
+            android:key = "invisible"/>
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

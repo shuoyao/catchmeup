@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_d0c58a023f6e260307ab2b012c63e101ad6215f6.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.0.0-alpha1_d676d00591a67b696afabde6b207118ab984b953.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/parse-android-1.13.0_e8494dbdaa8edfb1b4c81ab3fadf51e613a1012f.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.github.alamkanak/android-week-view/1.2.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="393eb85d65baa2c3702efdf699832498f8b51bf1">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.github.alamkanak-android-week-view-1.2.6_d1e9ab7574304b4d634b1cfcaf14b68b2a7d48aa.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.android.support-support-v13-23.1.1_6a130db2081e0f55ef77084d8bf7c7b8d243b177.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0_d55ac95fbb43a6deecfee3303030df6e96212e9f.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_c28affa6a4c0134a5a28bb8f4de5d9475bb93100.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0-alpha1_92e440a914cd40a36a1d432553018a73080ba5e6.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_60a5473247a143c093a1d611278e30f5593bbfdd.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/com.android.support-design-23.1.1_379659f8c0d96c01d7d7e7b964224e7c64f01c59.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0-alpha1_b84cd9e2ce532bab1a1dfd782bc6a99c4e33718a.jar" />
+    </item>
+    <item
+        jar="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/sophia/finalc/circle-app/friendrequest/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0-alpha1_69e5961e82682832993bf261759b7855e9fc30db.jar" />
+    </item>
+
+</items>

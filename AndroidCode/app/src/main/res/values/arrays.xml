@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="period">
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>day</item>
+    </string-array>
+
+    <string-array name="period_value">
+        <item>30 * 1000</item>
+        <item>60 * 1000</item>
+        <item>12 * 1000</item>
+        <item>24 * 60 * 1000</item>
+    </string-array>
+
+</resources>
+

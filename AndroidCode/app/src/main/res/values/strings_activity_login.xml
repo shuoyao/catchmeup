@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_register_user">Do you want to register?</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_log_out">Log Out</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password is too short</string>
+    <string name="error_too_many_tries">Too many login attempts. Try again in 5 minutes.</string>
+    <string name="error_incorrect_password">Couldn\'t find user/password match.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_user_exists">There is already a user registered with this email address.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_login">Log In</string>
+    <string name="title_activity_register">Register</string>
+
+</resources>

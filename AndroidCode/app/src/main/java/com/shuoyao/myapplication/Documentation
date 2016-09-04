@@ -1,0 +1,9 @@
+Shared Preferences Documentation:
+OwnFreeTimes: ["123412351-1235123", "1235235123-1235123", etc...]
+defaultFrequency: "7" - needs to update to cloud upon logout and update to shared preferences upon login
+
+
+
+Parse Documentation:
+FriendSettings:
+[[Friend Email, Frequency of Update, Current Number of Days to check frequency, name, ...], [....]]

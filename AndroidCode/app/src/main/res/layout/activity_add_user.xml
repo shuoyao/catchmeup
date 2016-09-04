@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/add_user_query"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint = "@string/addfriend_hint"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text = "@string/search"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/add_user_search"
+            android:src="@drawable/ic_search"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/addfriend_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint = "@string/addfriend_result"/>
+
+        <ListView
+            android:id="@+id/request_user_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/addfriend_result">
+        </ListView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

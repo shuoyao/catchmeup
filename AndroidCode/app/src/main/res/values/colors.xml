@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4c4c</color>
+
+    <color name="textBlock">#FF6E40</color>
+    <color name="textInBlock">#E0E0E0</color>
+    <color name="backDropColor">#ffffff</color>
+    <color name="titleColor">#DD2C00</color>
+    <color name="check">#1B5E20</color>
+    <color name="colorPrimaryDark">#21626F</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="toolBarColor">#000000</color>
+    <color name="tabColor">#000000</color>
+    <!-- eggshell: #F2DBB7     mint green: 70A491-->
+</resources>
