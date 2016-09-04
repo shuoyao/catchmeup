@@ -6,4 +6,6 @@ Contributed by Shuo Yao, Jimmy Cheung,and Genji Noguchi.
 Android Code:
 https://github.com/shuoyao/catchmeup/tree/master/AndroidCode/app/src/main/java/com/shuoyao/myapplication
 Cloud Code:  
-https://github.com/shuoyao/catchmeup/tree/master/CloudCode
+https://github.com/shuoyao/catchmeup/tree/master/CloudCode  
+Original BitBucket Repo:  
+https://bitbucket.org/mobiledeveloperscircle/circle-app
